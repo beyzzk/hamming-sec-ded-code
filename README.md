@@ -28,15 +28,25 @@ Bu proje, Hamming kodlaması kullanarak tek-bit hata düzeltme (SEC) ve çift-bi
 - Başlangıç ekranı  
 
 ![Nasıl Kullanılır](img/sec-ded1.png)
+
 - Veri girişi ve hamming kodu oluşturma  
+
 ![Nasıl Kullanılır](img/sec-ded2.png)  
-- Tek bitte hata oluşturma
+
+- Tek bitte hata oluşturma  
+
 ![Nasıl Kullanılır](img/sec-ded3.png)  
-- Hatalı veriyi tespit edip düzeltme
+
+- Hatalı veriyi tespit edip düzeltme  
+
 ![Nasıl Kullanılır](img/sec-ded4.png)  
-- Çift bitte hata oluşturma
+
+- Çift bitte hata oluşturma  
+
 ![Nasıl Kullanılır](img/sec-ded-cift-hata.png)  
-- Çift bit hatasını tespit etme
+
+- Çift bit hatasını tespit etme  
+
 ![Nasıl Kullanılır](img/sec-ded-cift-hata2.png)  
 
 
