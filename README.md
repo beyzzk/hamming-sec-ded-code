@@ -4,7 +4,7 @@ Bu proje, Hamming kodlaması kullanarak tek-bit hata düzeltme (SEC) ve çift-bi
 
 ## 🚀 Özellikler
 
-- Kullanıcıdan veri girişi alır.(8-16-32 bitlik veriler için uygundur.)
+- Kullanıcıdan veri girişi alır.(8-16-32 bitlik veriler için uygundur)
 - Gerekli kontrol bitlerini otomatik hesaplar.
 - Kodlanmış veriyi gösterir.
 - Tek veya çift bitlik hata simülasyonu yapar.
@@ -61,3 +61,5 @@ Bu proje, Hamming kodlaması kullanarak tek-bit hata düzeltme (SEC) ve çift-bi
 2. Projeyi indirin veya klonlayın.
 3. Masaüstünüzde proje dosyasını açıp main.py dosyasını çalıştırın.
 
+## Demo Video
+[Projenin demo videosunu buradan izleyebilirsiniz](https://www.youtube.com/watch?v=Sfg_UGU4gWc) 
